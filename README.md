@@ -3,3 +3,13 @@ A fun and cringy overview of deep learning in medical image and biosignal analyt
 
 
 https://gdggreece.gr/devfest-greece-2019/
+
+
+<hr>
+
+if you find this useful
+
+please cite my work:
+
+
+https://scholar.google.com/citations?user=CFsNV_4AAAAJ&hl=en&oi=ao
